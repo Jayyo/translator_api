@@ -3,7 +3,7 @@
   "translations": [
     {
       "original": "アイドルたちの１コマ",
-      "translated": "아이돌들의 한 장면"
+      "translated": "아이돌들의 한 컷"
     },
     {
       "original": "アイドルマスター SideM ブランドページ",
@@ -27,7 +27,7 @@
     },
     {
       "original": "日常での１コマ",
-      "translated": "일상의 한 장면"
+      "translated": "일상에서의 한 컷"
     },
     {
       "original": "Myアルバム",
@@ -43,7 +43,7 @@
     },
     {
       "original": "豆のをかし",
-      "translated": "콩 뿌리기 의식"
+      "translated": "콩 과자"
     },
     {
       "original": "オート再生中",
@@ -64,18 +64,6 @@
     {
       "original": "次の選択肢",
       "translated": "다음 선택지"
-    },
-    {
-      "original": "蒼井 悠介",
-      "translated": "아오이 유스케"
-    },
-    {
-      "original": "お疲れ、監督！",
-      "translated": "수고했어, 감독님!"
-    },
-    {
-      "original": "今日は節分だよ。",
-      "translated": "오늘은 세츠분이야."
     },
     {
       "original": "会話ログ",
@@ -107,7 +95,7 @@
     },
     {
       "original": "アイドルたちの１コマへ",
-      "translated": "아이돌들의 한 장면으로"
+      "translated": "아이돌들의 한 컷으로"
     },
     {
       "original": "315プロダクション エピソードへ",
@@ -115,7 +103,7 @@
     },
     {
       "original": "コンテンツ",
-      "translated": "컨텐츠"
+      "translated": "콘텐츠"
     },
     {
       "original": "グッズ",
@@ -127,11 +115,11 @@
     },
     {
       "original": "電子書籍",
-      "translated": "전자 서적"
+      "translated": "전자책"
     },
     {
       "original": "その他先行受付",
-      "translated": "기타 사전 접수"
+      "translated": "기타 선행 접수"
     },
     {
       "original": "サポート",
@@ -163,11 +151,63 @@
     },
     {
       "original": "特定商取引法に基づく表記",
-      "translated": "전상법 표기"
+      "translated": "특정 상거래법에 따른 표기"
     },
     {
       "original": "企業情報",
       "translated": "기업 정보"
+    },
+    {
+      "original": "蒼井 悠介",
+      "translated": "아오이 유스케"
+    },
+    {
+      "original": "お疲れ、監督！",
+      "translated": "수고했어, 감독!"
+    },
+    {
+      "original": "今日は節分だよ。",
+      "translated": "오늘은 세쓰분이야."
+    },
+    {
+      "original": "蒼井 享介",
+      "translated": "아오이 쿄스케"
+    },
+    {
+      "original": "豆を買って来たから、一緒に豆まきしない？",
+      "translated": "콩을 사왔으니 같이 콩 뿌리기 할래?"
+    },
+    {
+      "original": "……あれ、もう豆を用意してあったんだ。",
+      "translated": "…어, 벌써 콩을 준비해뒀네."
+    },
+    {
+      "original": "なんだかカラフルだね。チーム戦でもするの？",
+      "translated": "왠지 알록달록하네. 팀전이라도 할 거야?"
+    },
+    {
+      "original": "5色あるから、5チーム作れるな。でもそれじゃ",
+      "translated": "5가지 색이 있으니, 5팀을 만들 수 있겠네. 하지만 그럼"
+    },
+    {
+      "original": "人数が足りないし、誰かに声をかけてみるか。",
+      "translated": "인원이 부족하니까, 누군가에게 목소리 걸어볼까."
+    },
+    {
+      "original": "あっ、それは……！",
+      "translated": "아, 그건...!"
+    },
+    {
+      "original": "清澄 九郎",
+      "translated": "키요스미 구로"
+    },
+    {
+      "original": "それは投げるための豆ではありませんよ。",
+      "translated": "그것은 던지기 위한 콩이 아니에요."
+    },
+    {
+      "original": "お茶と一緒にいただく豆菓子です。",
+      "translated": "차와 함께 즐기는 콩 과자예요."
     }
   ]
 }
